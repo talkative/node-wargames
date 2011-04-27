@@ -74,5 +74,6 @@ new Wargames(app, {
 	, ircRealName: 'MrWarGames'
 	, ircPort: 6667
 	, ircSSL: false
+	, ircDebug: false
 	, cachePath: '/tmp/cache.json'
 });
