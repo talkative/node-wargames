@@ -72,5 +72,7 @@ new Wargames(app, {
 	, ircBotNick: 'MrWarGames'
 	, ircUserName: 'MrWarGames'
 	, ircRealName: 'MrWarGames'
+	, ircPort: 6667
+	, ircSSL: false
 	, cachePath: '/tmp/cache.json'
 });
