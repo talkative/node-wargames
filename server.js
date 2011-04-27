@@ -72,6 +72,7 @@ new Wargames(app, {
 	, ircBotNick: 'MrWarGames'
 	, ircUserName: 'MrWarGames'
 	, ircRealName: 'MrWarGames'
+	, ircPassword: null,
 	, ircPort: 6667
 	, ircSSL: false
 	, ircDebug: false
